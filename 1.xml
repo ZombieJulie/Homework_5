@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<user>
+    <fullname>
+        <name>Иван</name>
+        <surname>Иванов</surname>
+        <patronymic>Иванович</patronymic>
+    </fullname>
+    <age>30</age>
+    <phone>79267664848</phone>
+    <birthplace>Москва</birthplace>
+</user>
